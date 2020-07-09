@@ -1,2 +1,2 @@
-kapp.conf.server.url=
-kapp.conf.Eureka.url=
+kapp.conf.server.url=localohost
+kapp.conf.Eureka.port=8761
